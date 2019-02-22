@@ -1,0 +1,55 @@
+body {
+    background-color: bisque;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+    height: 40px;
+}
+.emoji_row {
+    margin-left: -36px;
+}
+
+hr {
+    margin-top: -2px;
+}
+.emoji_row:hover {
+    background-color: #eee;
+}
+.input_box{
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 10px 8px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: -5px;
+}
+
+.input_box_div {
+    margin: 0 0px 10px 10px;
+}
+p{
+    position: relative;
+    font-weight: normal;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #333;
+    margin-bottom: inherit;
+    margin-top: 1%;
+}
+
+img {
+    height: 30px;
+    margin-bottom: -13px;
+    padding: 10px;
+}
+
+.symbol {
+    font-size: 33px;
+}
