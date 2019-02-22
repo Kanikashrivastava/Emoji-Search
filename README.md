@@ -3,7 +3,7 @@
 ### `clone it`
 
 Clone the project with the following command. <br>
-git clone https://github.com/Kanikashrivastava/GSE.git
+git clone https://github.com/Kanikashrivastava/Emoji-Search.git
 
 ### `npm run dev`
 
